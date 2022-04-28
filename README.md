@@ -11,8 +11,9 @@ git clone https://github.com/yusuf-ceylan/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-```bash
-
+```linux
+cd kodluyoruzilkrepo
+code .
 ```
 
 # Contributing
